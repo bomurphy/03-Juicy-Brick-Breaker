@@ -25,11 +25,11 @@ Features Included:
 
 ## References
 
-Typeface: Datalegreya by Figs Lab 
-Smoke particles provided by kenney.nl
-Music provided by https://patrickdearteaga.com
-Sound effects provded by Bowen Murphy and https://freesound.org
-Images provided by OpenGameArt.org 
+- Typeface: Datalegreya by Figs Lab 
+- Smoke particles provided by kenney.nl
+- Music provided by https://patrickdearteaga.com
+- Sound effects provded by Bowen Murphy and https://freesound.org
+- Images provided by OpenGameArt.org 
 
 ## Future Development
 
